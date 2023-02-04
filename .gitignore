@@ -1,0 +1,15 @@
+# targets
+target/
+project/target/
+project/project/target/
+
+# related plugins
+project/.bloop/
+project/metals.sbt
+project/project/metals.sbt
+.metals/
+.bsp/
+.bloop/
+
+# vs code
+.vscode/
